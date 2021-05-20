@@ -1,0 +1,10 @@
+SMAP
+poll_0020pagefake_jsp.java
+JSP
+*S JSP
+*F
++ 0 poll pagefake.jsp
+poll pagefake.jsp
+*L
+1,62:44
+*E
